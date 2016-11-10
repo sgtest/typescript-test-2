@@ -1,0 +1,17 @@
+{
+
+    "compilerOptions": {
+			"baseUrl": ".",
+      "target": "ES5",
+        "lib": ["es2016"],
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "outDir": "build"
+    },
+    "files": [
+        "dir1/module1.ts",
+        "dir2/module2.ts",
+        "dir3/module3.ts"
+    ]
+}
