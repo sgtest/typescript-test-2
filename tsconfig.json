@@ -12,6 +12,7 @@
     "files": [
         "dir1/module1.ts",
         "dir2/module2.ts",
-        "dir3/module3.ts"
+        "dir3/module3.ts",
+        "dir4/module4.ts"
     ]
 }
